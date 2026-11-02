@@ -34,13 +34,13 @@ Target distribution:
 
 ```text
 credit-risk-assessment/
-├── Final_Ajay_Sheffield_final_.ipynb
+├── Final_credit risk_ ajay.ipynb
 ├── Loan_default.csv
 ├── README.md
 └── requirements.txt
 ```
 
-- `Final_Ajay_Sheffield_final_.ipynb` — main notebook containing data analysis, model development and evaluation.
+- `Final_credit risk_ ajay.ipynb` — main notebook containing data analysis, model development and evaluation.
 - `Loan_default.csv` — dataset used by the notebook.
 - `README.md` — project overview and instructions.
 - `requirements.txt` — Python package dependencies.
@@ -111,7 +111,7 @@ pip install -r requirements.txt
 
 ### 4. Run the notebook
 
-Open `Final_Ajay_Sheffield_final_.ipynb` in Jupyter Notebook, JupyterLab or Google Colab.
+Open `Final_credit risk_ ajay.ipynb` in Jupyter Notebook, JupyterLab or Google Colab.
 
 The notebook expects `Loan_default.csv` to be available in its working directory. If using Google Colab, upload the CSV or mount the storage location and update the dataset path in the notebook if necessary.
 
